@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'SG ABSENSI ONLINE',
+        title: 'FANDI ABSEN ONLINE',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           useMaterial3: false,
